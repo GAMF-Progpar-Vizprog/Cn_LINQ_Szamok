@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CnLINQ_Numbers
+namespace Cn_LINQ_Szamok
 {
   /// <summary>
   /// Három érdekes évszám: 2010, 2011, 2012.
